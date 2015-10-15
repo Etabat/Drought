@@ -1,0 +1,41 @@
+{
+  "name": "drought",
+  "version": "1.0.0",
+  "description": "An interactive application for those interested in climate change to see how the recent droughts have affected major Californian lakes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etabat/Drought.git"
+  },
+  "keywords": [
+    "OCCS-TWO",
+    "Porject",
+    "Three",
+    "Drought",
+    "AngularJS",
+    "D3",
+    "ES",
+    "6"
+  ],
+  "author": "Ehsan Tabatabaei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etabat/Drought/issues"
+  },
+  "homepage": "https://github.com/Etabat/Drought#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-uglify": "^1.4.2",
+    "wiredep": "^2.2.2"
+  }
+}
