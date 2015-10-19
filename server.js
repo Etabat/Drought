@@ -13,6 +13,7 @@ app.get('/reservoirs', function (req, res) {
 
 app.use('/bower_components',  express.static(__dirname + '/bower_components'));
 app.use(express.static(__dirname + '/public/dist'));
+app.use('/app/chart-app/', express.static(__dirname + '/app/chart-app/'));
 
 app.listen(1337);
 console.log('Connected!');
