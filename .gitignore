@@ -1,0 +1,5 @@
+.DS_Store
+bower_components
+TDDNotes.txt
+node_modules
+app/chart-app/
