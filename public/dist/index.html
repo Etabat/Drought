@@ -16,10 +16,10 @@
     <!-- endbower -->
     <title>Drought</title>
   </head>
-  <body ng-app="chartApp" ng-controller="SalesController">
-    <div class="container">
+  <body class="container">
+    <div ng-app="chartApp" ng-controller="SalesController">
       <h1>Effect of Drought on California's Reservoirs!</h1>
+      <div linear-chart chart-data="salesData"></div>
     </div>
-    <div linear-chart chart-data="salesData"></div>
   </body>
 </html>

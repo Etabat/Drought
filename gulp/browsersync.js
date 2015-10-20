@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync');
 
-gulp.task('sync', function() {
+gulp.task('sync', ['inject'], function() {
   browserSync.init({
     proxy: 'localhost:1337',
     reloadDelay: 3000,
@@ -11,6 +11,6 @@ gulp.task('sync', function() {
   gulp.watch("public/index.html", ['reload']);
 });
 
-gulp.task('reload', ['min', 'inject'], function(){
+gulp.task('reload', ['inject'], function(){
   browserSync.reload();
 });
