@@ -1,9 +1,684 @@
 {
-  "date": "2010/01/01",
-  "reservoirName": "Trinity",
-  "project": "Central Valley Project",
-  "capacityAF": 2500000,
-  "storageAF": 520000,
-  "outflowCFS": 650,
-  "inflowCFS": 125
+  "reservoirs": {
+    "lakeShasta": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "lakeOriville": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "trinityLake": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "newMelonsLake": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "sanLuisReservoir": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "donPedroReservoir": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "lakeBerryessa": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "lakeAlmanor": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "folsomLake": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    },
+    "lakeMcClure": {
+      "totalCapacityAF": 4552000,
+      "2014-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-11-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2014-12-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-01-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-02-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-03-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-04-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-05-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-06-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-07-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-08-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-09-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      },
+      "2015-10-01": {
+        "currentStorageAF": 1,
+        "percentageOfTotal": 10,
+        "percentageOfHistoricalAverage": 10
+      }
+    }
+  }
 }
