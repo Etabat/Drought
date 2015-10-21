@@ -3,341 +3,341 @@
     "lakeShasta": {
       "totalCapacityAF": 4552000,
       "2014-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1150877,
+        "percentageOfTotal": 25,
+        "percentageOfHistoricalAverage": 42
       },
       "2014-11-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1110361,
+        "percentageOfTotal": 24,
+        "percentageOfHistoricalAverage": 42
       },
       "2014-12-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1049149,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 39
       },
       "2015-01-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1876339,
+        "percentageOfTotal": 41,
+        "percentageOfHistoricalAverage": 66
       },
       "2015-02-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 2003761,
+        "percentageOfTotal": 44,
+        "percentageOfHistoricalAverage": 65
       },
       "2015-03-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 2621171,
+        "percentageOfTotal": 58,
+        "percentageOfHistoricalAverage": 79
       },
       "2015-04-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 2689714,
+        "percentageOfTotal": 59,
+        "percentageOfHistoricalAverage": 73
       },
       "2015-05-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 2654555,
+        "percentageOfTotal": 58,
+        "percentageOfHistoricalAverage": 68
       },
       "2015-06-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 2397120,
+        "percentageOfTotal": 53,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-07-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 2193789,
+        "percentageOfTotal": 48,
+        "percentageOfHistoricalAverage": 60
       },
       "2015-08-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1984514,
+        "percentageOfTotal": 44,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-09-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1782826,
+        "percentageOfTotal": 39,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1595,
+        "percentageOfTotal": 35,
+        "percentageOfHistoricalAverage": 59
       }
     },
     "lakeOriville": {
-      "totalCapacityAF": 4552000,
+      "totalCapacityAF": 3537577,
       "2014-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1075536,
+        "percentageOfTotal": 30,
+        "percentageOfHistoricalAverage": 49
       },
       "2014-11-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 950759,
+        "percentageOfTotal": 27,
+        "percentageOfHistoricalAverage": 45
       },
       "2014-12-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 914239,
+        "percentageOfTotal": 26,
+        "percentageOfHistoricalAverage": 43
       },
       "2015-01-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1351639,
+        "percentageOfTotal": 38,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-02-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1445217,
+        "percentageOfTotal": 41,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-03-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1739248,
+        "percentageOfTotal": 49,
+        "percentageOfHistoricalAverage": 70
       },
       "2015-04-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1794099,
+        "percentageOfTotal": 51,
+        "percentageOfHistoricalAverage": 66
       },
       "2015-05-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1777442,
+        "percentageOfTotal": 50,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-06-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1559875,
+        "percentageOfTotal": 44,
+        "percentageOfHistoricalAverage": 52
       },
       "2015-07-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1386462,
+        "percentageOfTotal": 39,
+        "percentageOfHistoricalAverage": 48
       },
       "2015-08-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1155319,
+        "percentageOfTotal": 33,
+        "percentageOfHistoricalAverage": 45
       },
       "2015-09-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1070137,
+        "percentageOfTotal": 30,
+        "percentageOfHistoricalAverage": 46
       },
       "2015-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1057903,
+        "percentageOfTotal": 30,
+        "percentageOfHistoricalAverage": 48
       }
     },
     "trinityLake": {
-      "totalCapacityAF": 4552000,
+      "totalCapacityAF": 2447650,
       "2014-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 603519,
+        "percentageOfTotal": 25,
+        "percentageOfHistoricalAverage": 36
       },
       "2014-11-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 560498,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 35
       },
       "2014-12-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 562859,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 35
       },
       "2015-01-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 816671,
+        "percentageOfTotal": 33,
+        "percentageOfHistoricalAverage": 50
       },
       "2015-02-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 874913,
+        "percentageOfTotal": 36,
+        "percentageOfHistoricalAverage": 50
       },
       "2015-03-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1148026,
+        "percentageOfTotal": 47,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-04-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1191675,
+        "percentageOfTotal": 49,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-05-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1180799,
+        "percentageOfTotal": 48,
+        "percentageOfHistoricalAverage": 58
       },
       "2015-06-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1021119,
+        "percentageOfTotal": 42,
+        "percentageOfHistoricalAverage": 48
       },
       "2015-07-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 926833,
+        "percentageOfTotal": 38,
+        "percentageOfHistoricalAverage": 45
       },
       "2015-08-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 821167,
+        "percentageOfTotal": 34,
+        "percentageOfHistoricalAverage": 42
       },
       "2015-09-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 674479,
+        "percentageOfTotal": 28,
+        "percentageOfHistoricalAverage": 38
       },
       "2015-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 543423,
+        "percentageOfTotal": 22,
+        "percentageOfHistoricalAverage": 33
       }
     },
     "newMelonsLake": {
-      "totalCapacityAF": 4552000,
+      "totalCapacityAF": 2400000,
       "2014-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 520392,
+        "percentageOfTotal": 22,
+        "percentageOfHistoricalAverage": 39
       },
       "2014-11-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 512671,
+        "percentageOfTotal": 21,
+        "percentageOfHistoricalAverage": 38
       },
       "2014-12-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 514096,
+        "percentageOfTotal": 21,
+        "percentageOfHistoricalAverage": 38
       },
       "2015-01-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 548476,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 40
       },
       "2015-02-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 563588,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 40
       },
       "2015-03-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 606233,
+        "percentageOfTotal": 25,
+        "percentageOfHistoricalAverage": 41
       },
       "2015-04-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 550853,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 36
       },
       "2015-05-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 489695,
+        "percentageOfTotal": 20,
+        "percentageOfHistoricalAverage": 33
       },
       "2015-06-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 451026,
+        "percentageOfTotal": 19,
+        "percentageOfHistoricalAverage": 30
       },
       "2015-07-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 400111,
+        "percentageOfTotal": 17,
+        "percentageOfHistoricalAverage": 26
       },
       "2015-08-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 341931,
+        "percentageOfTotal": 14,
+        "percentageOfHistoricalAverage": 23
       },
       "2015-09-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 293610,
+        "percentageOfTotal": 12,
+        "percentageOfHistoricalAverage": 21
       },
       "2015-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 267732,
+        "percentageOfTotal": 11,
+        "percentageOfHistoricalAverage": 20
       }
     },
     "sanLuisReservoir": {
-      "totalCapacityAF": 4552000,
+      "totalCapacityAF": 2041000,
       "2014-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 466152,
+        "percentageOfTotal": 23,
+        "percentageOfHistoricalAverage": 49
       },
       "2014-11-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 393798,
+        "percentageOfTotal": 19,
+        "percentageOfHistoricalAverage": 36
       },
       "2014-12-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 492786,
+        "percentageOfTotal": 24,
+        "percentageOfHistoricalAverage": 40
       },
       "2015-01-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 837120,
+        "percentageOfTotal": 41,
+        "percentageOfHistoricalAverage": 60
       },
       "2015-02-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1110893,
+        "percentageOfTotal": 54,
+        "percentageOfHistoricalAverage": 69
       },
       "2015-03-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1302864,
+        "percentageOfTotal": 64,
+        "percentageOfHistoricalAverage": 75
       },
       "2015-04-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1350993,
+        "percentageOfTotal": 66,
+        "percentageOfHistoricalAverage": 73
       },
       "2015-05-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1268396,
+        "percentageOfTotal": 62,
+        "percentageOfHistoricalAverage": 70
       },
       "2015-06-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 1080671,
+        "percentageOfTotal": 53,
+        "percentageOfHistoricalAverage": 67
       },
       "2015-07-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 801186,
+        "percentageOfTotal": 39,
+        "percentageOfHistoricalAverage": 62
       },
       "2015-08-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 514740,
+        "percentageOfTotal": 25,
+        "percentageOfHistoricalAverage": 52
       },
       "2015-09-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 414690,
+        "percentageOfTotal": 20,
+        "percentageOfHistoricalAverage": 48
       },
       "2015-10-01": {
-        "currentStorageAF": 1,
-        "percentageOfTotal": 10,
-        "percentageOfHistoricalAverage": 10
+        "currentStorageAF": 394729,
+        "percentageOfTotal": 19,
+        "percentageOfHistoricalAverage": 41
       }
     },
     "donPedroReservoir": {
