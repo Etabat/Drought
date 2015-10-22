@@ -1,67 +1,80 @@
-InitChart();
+$(document.ready(InitChart()));
 function InitChart() {
 
-  var barData = [{
+  var precipData = [{
+    'keyword': "payday loans",
     'x': 1,
     'y': 5
   }, {
+    'keyword': "payday loans",
     'x': 20,
     'y': 20
   }, {
+    'keyword': "payday loans",
     'x': 40,
     'y': 10
   }, {
+    'keyword': "payday loans",
     'x': 60,
     'y': 40
   }, {
+    'keyword': "payday loans",
     'x': 80,
     'y': 5
   }, {
+    'keyword': "payday loans",
     'x': 100,
-    'y': 60
+    'y': 100
   }];
 
-  var vis = d3.select('#precip-chart'),
-      WIDTH = 1000,
-      HEIGHT = 500,
-      MARGINS = {
+  var barChart = d3.select('#precip-chart'),
+      width = 1000,
+      height = 500,
+      margins = {
         top: 30,
         right: 20,
         bottom: 20,
         left: 50
-      },
-      xRange = d3.scale.ordinal().rangeRoundBands([MARGINS.left, WIDTH - MARGINS.right], 0.1).domain(barData.map(function (d) {
-        return d.x;
-      })),
-      yRange = d3.scale.linear().range([HEIGHT - MARGINS.top, MARGINS.bottom]).domain([0,
-        d3.max(barData, function (d) {
-          return d.y;
-        })
-      ]),
-      xAxis = d3.svg.axis()
+      };
+  var xRange = d3.scale.ordinal()
+          .rangeRoundBands([margins.left, width - margins.right], 0.1)
+          .domain(precipData.map(function (d) {
+                return d.x;
+          }));
+  var yRange = d3.scale.linear()
+          .range([height - margins.top, margins.bottom])
+          .domain([0, d3.max(precipData, function (d) {
+            return d.y;
+            })
+          ]);
+  var xAxis = d3.svg.axis()
           .scale(xRange)
           .tickSize(5)
-          .tickSubdivide(true),
+          .tickSubdivide(true)
+          .tickFormat(function(d) {
+            console.log(precipData[d].keyword);
+            return precipData[d].keyword;
+          })
+          .orient("bottom");
 
-      yAxis = d3.svg.axis()
+  var yAxis = d3.svg.axis()
           .scale(yRange)
           .tickSize(5)
           .orient("left")
           .tickSubdivide(true);
 
-
-  vis.append('svg:g')
+  barChart.append('svg:g')
       .attr('class', 'x axis')
-      .attr('transform', 'translate(0,' + (HEIGHT - MARGINS.bottom) + ')')
+      .attr('transform', 'translate(0,' + (height - margins.bottom) + ')')
       .call(xAxis);
 
-  vis.append('svg:g')
+  barChart.append('svg:g')
       .attr('class', 'y axis')
-      .attr('transform', 'translate(' + (MARGINS.left) + ',0)')
+      .attr('transform', 'translate(' + (margins.left) + ',0)')
       .call(yAxis);
 
-  vis.selectAll('rect')
-      .data(barData)
+  barChart.selectAll('rect')
+      .data(precipData)
       .enter()
       .append('rect')
       .attr('x', function (d) {
@@ -72,7 +85,7 @@ function InitChart() {
       })
       .attr('width', xRange.rangeBand())
       .attr('height', function (d) {
-        return ((HEIGHT - MARGINS.bottom) - yRange(d.y));
+        return ((height - margins.bottom) - yRange(d.y));
       })
       .attr('fill', 'grey')
       .on('mouseover',function(d){
@@ -83,5 +96,5 @@ function InitChart() {
         d3.select(this)
             .attr('fill','grey');
       });
-  console.log(vis);
+  console.log(barChart);
 }
